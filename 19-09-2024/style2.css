@@ -1,0 +1,29 @@
+
+	body {
+		font-family: "Playwrite CU", cursive;
+		text-align: center;
+		
+		
+	}
+	table, td, tr, th {
+		border: solid 5px;
+		border-collapse: collapse;
+		border-color: black;
+	}
+	
+	#azul {
+		background: blue;
+		border-color: black;
+		color: white;
+						
+	}
+	
+	#tabela {
+		background: grey;
+		
+	}
+	
+	
+	#titulos {
+		background:pink;
+	}
